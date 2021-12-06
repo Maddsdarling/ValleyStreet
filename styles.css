@@ -183,6 +183,7 @@ h4{
     display: flex;
     width: 40%;
     flex-flow: row wrap;
+    font-size: 1.25em;
 }
     #sect2{
    margin: 0 auto;
